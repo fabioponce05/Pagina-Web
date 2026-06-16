@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web :)</title>
+
+```
+<style>
+    body {
+        font-family: 'Impact', cursive;
+        background-color: #FF0000;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #B57EDC; /* Morado patito */
+        color: white;
+        text-align: center;
+        padding: 40px 0;
+    }
+
+    section {
+        max-width: 900px;
+        margin: auto;
+        padding: 20px;
+        background: white;
+        margin-top: 20px;
+        border-radius: 8px;
+    }
+
+    h2 {
+        color: #B57EDC;
+    }
+
+    footer {
+        text-align: center;
+        padding: 20px;
+        margin-top: 20px;
+        background-color: #ddd;
+    }
+
+    p, li {
+        font-family: 'Papyrus', sans-serif;
+        color: black;
+    }
+
+    header p {
+        font-family: 'Momo Signature', cursive;
+        color: white;
+    }
+</style>
+```
+
+</head>
+
+<body>
+    <header>
+
+    <h1>Mi Página Web</h1>
+    <p>Esta es la pagina web de Fabio Ponce Salas</p>
+</header>
+
+<section>
+    <h2>Descripcion personal</h2>
+    <p>Mi nombre es Fabio Enrique Ponce Salas, tengo 21 anos, estudio en la Universidad Catolica San Pablo en Arequipa y voy en el quinto semestre de la carrera. Poseo habilidades tales como: tocar guitarra, dibujar y correr rapido</p>
+</section>
+
+<section>
+    <h2>Cursos de mi carrera</h2>
+    <ul>
+        <li>Calculo en varias variables: es un curso en el que aprendemos a integrar. El docente de este curso se llama <a href="https://www.linkedin.com/in/jorge-luis-chambi-mamani-b895532ab/" target="_blank">Mg. Jorge Luis Chambi Mamani</a> </li>
+        <li>Estadistica: en este curso aprendi a calcular la varianza y a interpretar la curtosis.El docente de este curso se llama <a href="https://www.linkedin.com/in/ronald-emerson-ticona-humpiri-a1332373/">Ronald Bladimiro Ticona Méndez</a> </li>
+       
+    </ul>
+</section>
+
+<section>
+    <h2>Enlaces de Linkedin</h2>
+    <ul>
+        <li>Ernesto Cuadros-Vargas <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank"_blank">Linkedin</a></li>
+        <li>Rosmery Violeta Quispe Zavala <a href="https://www.linkedin.com/in/rosmery-violeta-quispe-zavala-58374638/" target="_blank">Linkedin</a> </li>
+ 	<li>Fabio Ponce Salas <a href="https://www.linkedin.com/in/fabio-enrique-ponce-salas-197724416/" target="_blank">Linkedin</a> </li>
+    </ul>
+</section>
+
+<section>
+    <h2>Paginas de companeros</h2>
+    <p>Pagina 1: <a href="https://j0sm160.github.io/#"_blank">José David Mendigure Perochena</a></p>
+    <p>Pagina 2: <a href="https://ayelen11.github.io/flor-ayelen-michcapacchua-huarca/#cursos"_blank">Flor Ayelen Michcapacchua Huarca</a></p>
+    <p>Pagina 3: <a href="https://anny-ramirez.github.io/anny-varinia-ramirez-quispe/#cursos">Anny Varinia Ramirez Quispe</a></p>
+
+    <h2>Contactos de mis docentes</h2>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">Ernesto Cuadros-Vargas</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/rosmery-violeta-quispe-zavala-58374638/" target="_blank">Rosmery Violeta Quispe Zavala</a></p>
+</section>
+
+<footer>
+    q ves ya se acabo la pagina. chau.
+</footer>
+```
+
+</body>
+</html>
